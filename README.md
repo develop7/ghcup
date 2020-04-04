@@ -1,6 +1,6 @@
 <img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" align="left" width="144px" height="144px"/>
 
-#### ghcup
+#### [ghcup](ghcup) integration
 > A plugin for [Oh My Fish][omf-link].
 
 [![MIT License](https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square)](/LICENSE)
@@ -16,14 +16,6 @@
 $ omf install ghcup
 ```
 
-
-## Usage
-
-```fish
-$ ghcup
-```
-
-
 # License
 
 [MIT][mit] © [Andrei Dziahel][author] et [al][contributors]
@@ -33,5 +25,6 @@ $ ghcup
 [author]:         https://github.com/develop7
 [contributors]:   https://github.com/develop7/plugin-ghcup/graphs/contributors
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
+[ghcup]:          https://www.haskell.org/ghcup/
 
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
